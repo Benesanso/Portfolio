@@ -40,7 +40,7 @@ const Contacts = () => {
         <i className={`fas ${isPhoneOpen ? 'fa-phone-volume' : 'fa-phone'} icon`} onClick={handlePhoneClick}></i>
         {isPhoneOpen && (
           <div className="contact-infos">
-            <a href="tel:+0616169808">06.16.16.98.08</a>
+            <a href="tel:+33616169808">06.16.16.98.08</a>
           </div>
         )}
       </div>
