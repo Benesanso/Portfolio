@@ -31,7 +31,7 @@ function Story() {
         <div className='bloc-intro'>
           <div className='presentation'>
             <h2>Qui suis-je ?</h2>
-            <p>Je me présente, <strong>Bénédicte SANSONNETTE</strong>, Développeuse Intégrateuse Web "Junior".</p>
+            <p>Je me présente, <strong>Bénédicte SANSONNETTE</strong>, Développeuse Intégrateuse Web "Free-lance".</p>
             <p>Après 14 ans dans le domaine de la santé, je me suis reconvertie dans le développement web pour:</p>
           </div>
           <ul className='intro'>

@@ -13,7 +13,7 @@ function Portfolio() {
       <Cards />
 
       {/* Div contenant le titre "Mon Contact" */}
-      <h2 className="contact-title">Mes Contacts</h2>
+      <h2 id="mescontacts" className="contact-title">Mes Contacts</h2>
 
       {/* Composant "Contacts" */}
       <Contacts />
